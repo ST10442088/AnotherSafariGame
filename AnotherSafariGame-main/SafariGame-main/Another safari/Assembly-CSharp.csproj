@@ -62,8 +62,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\ScoreTracker.cs" />
+    <Compile Include="Assets\FirstAidSystem.cs" />
     <Compile Include="Assets\PickupSystem.cs" />
     <Compile Include="Assets\Movement.cs" />
+    <Compile Include="Assets\FirstAidCounter.cs" />
     <Compile Include="Assets\Timer.cs" />
   </ItemGroup>
   <ItemGroup>

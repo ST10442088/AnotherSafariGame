@@ -8,7 +8,7 @@ public class ScoreTracker : MonoBehaviour
     [SerializeField] TextMeshProUGUI scoreText;
 
     int scoreIncrement = 5;
-    int startScore = 0;
+    public int startScore = 0;
     public static ScoreTracker currentInstance;
 
 
